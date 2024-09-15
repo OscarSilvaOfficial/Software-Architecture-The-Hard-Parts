@@ -19,4 +19,4 @@ Segundo ele, arquiteturas baseadas em microsserviço estão sendo preteridas no 
 ![image](https://github.com/user-attachments/assets/0bd4e922-ca47-45f4-bb64-0ccf5eba82ec)
 
 É citado que, o contexto para essa revolução de microsserviços foi muito influênciado pela ascenção do código aberto, onde ferramentas como o Puppet e Chef tornou a infraestrutura mais automatizável.
-Consequentemente, isso influênciou a criação de novas técnologias incríveis, como *Docker*, *Kubernets* e etc
+Consequentemente, isso influênciou a criação de novas técnologias incríveis, como **Docker**, **Kubernets** e etc
