@@ -1,7 +1,7 @@
 # Software Architecture: The Hard Parts | Leitura e Análise
-
 ![image](https://github.com/user-attachments/assets/a4c00792-3f35-4fa6-a464-14deb3f4425c)
 
+## Descrição
 Aqui coloco o resumo da minha leitura sobre o livro Software Architecture: The Hard Parts
 
 ## O que acontece quando não há melhores práticas?
