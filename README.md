@@ -13,3 +13,10 @@ Segundo ele, arquiteturas baseadas em microsserviço estão sendo preteridas no 
 `NOTA: em 2023, as empresas começaram a realizar um movimento para a volta de arquiteturas monoliticas, o primeiro caso notável foi o Prime Vídeo da Amazon, vou deixar o link com um artigo escrito no Tab News.`
 
 [Link do artigo no Tab News](https://www.tabnews.com.br/uriel/a-volta-dos-monolitos-adeus-microservicos-amazom-prime-video-90-por-cento-de-economia)
+
+`NOTA: Apenas para entendimento, vou deixar uma imagem da "evolução" das arquiteturas.`
+
+![image](https://github.com/user-attachments/assets/0bd4e922-ca47-45f4-bb64-0ccf5eba82ec)
+
+
+
