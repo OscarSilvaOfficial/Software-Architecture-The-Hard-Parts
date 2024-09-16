@@ -27,3 +27,9 @@ O capítulo inicia ressaltando um ponto, em toda arquitetura, os dados são extr
 Os dados gerados de um produto são de valor inestimável para o negócio, pois apenas apartir deles é possível tomar decisões mais acertivas para a evolução do negócio.
 
 O autor cita que uma das maiores dificuldades na implementação de microsserviços foi a decentralização das informações em vários bancos de dados, tornando assim a coleta e análise das métricas um pouco mais complexas e um desafio a se resolver na época. 
+
+#### Tipos de dados
+
+**Dados transacionais:** São dados fundamentais para o funcionamento do negócio. Caso esses dados não sejam computados, a organização pode sofrer o risco de parar.
+
+**Dados analiticos:** São dados usados para realizar previsões, análises de inteligência do negócio e etc.
