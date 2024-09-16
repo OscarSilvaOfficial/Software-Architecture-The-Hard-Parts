@@ -22,3 +22,8 @@ Segundo ele, arquiteturas baseadas em microsserviço estão sendo preteridas no 
 Consequentemente, isso influênciou a criação de novas técnologias incríveis, como **Docker**, **Kubernets** e etc.
 
 ### A importância dos dados na arquitetura
+O capítulo inicia ressaltando um ponto, em toda arquitetura, os dados são extremamente importante, independente de alterações, indo de correção de bugs, refatorações complexas até a reescrita completa do sistema, os dados de negócio precisam manter-se vivos.
+
+Os dados gerados de um produto são de valor inestimável para o negócio, pois apenas apartir deles é possível tomar decisões mais acertivas para a evolução do negócio.
+
+O autor cita que uma das maiores dificuldades na implementação de microsserviços foi a decentralização das informações em vários bancos de dados, tornando assim a coleta e análise das métricas um pouco mais complexas e um desafio a se resolver na época. 
