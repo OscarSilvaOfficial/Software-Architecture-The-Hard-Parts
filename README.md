@@ -29,7 +29,51 @@ Os dados gerados de um produto são de valor inestimável para o negócio, pois 
 O autor cita que uma das maiores dificuldades na implementação de microsserviços foi a decentralização das informações em vários bancos de dados, tornando assim a coleta e análise das métricas um pouco mais complexas e um desafio a se resolver na época. 
 
 #### Tipos de dados
-
 **Dados transacionais:** São dados fundamentais para o funcionamento do negócio. Caso esses dados não sejam computados, a organização pode sofrer o risco de parar.
 
 **Dados analiticos:** São dados usados para realizar previsões, análises de inteligência do negócio e etc.
+
+### Regístros de decisão de arquitetura
+Em arquitetura, é extremamente importante documentar as decisões tomadas, seus motivos, e suas consequências. Para realizar isso o autor indica o uso de ADRs (Architectural Decision Records).
+
+Esse tipo de documentação deve ser bem direto e normalmente escrito em markdown
+
+exemplo:
+
+```m̀arkdown
+# ADR - [Título da Decisão]
+
+## Contexto
+Descreva o cenário que levou à tomada de decisão. Inclua detalhes do problema que precisa ser resolvido e quaisquer requisitos, restrições, ou limitações que influenciam essa decisão.
+
+## Decisão
+Declare a decisão que foi tomada. Seja específico sobre o que foi escolhido e como a decisão será implementada. Inclua detalhes sobre a abordagem, tecnologias envolvidas, ou padrões adotados.
+
+## Alternativas Consideradas
+Liste e descreva as alternativas que foram consideradas durante o processo de decisão. Inclua vantagens e desvantagens de cada alternativa.
+
+1. **Alternativa 1**: [Descrição]
+   - **Vantagens**: [Detalhe]
+   - **Desvantagens**: [Detalhe]
+
+2. **Alternativa 2**: [Descrição]
+   - **Vantagens**: [Detalhe]
+   - **Desvantagens**: [Detalhe]
+
+## Consequências
+Descreva as consequências da decisão tomada. Inclua impactos positivos e negativos, bem como possíveis riscos e como eles serão mitigados. Explique o que precisará ser feito para implementar essa decisão e o que será afetado por ela.
+
+## Status
+Indique o status da decisão: "Proposta", "Aceita", "Em andamento", "Implementada", "Rejeitada", etc.
+
+## Data
+Data em que a decisão foi tomada.
+
+## Responsável
+Nome do responsável pela decisão ou do time que a tomou.
+
+## Anexos (Opcional)
+Inclua qualquer informação adicional, como diagramas, referências a documentos externos, links para conversas, ou outras anotações que sejam relevantes para o entendimento completo da decisão.
+```
+
+`NOTA: Acredito que RFCs também podem auxiliar no processo de tamada das decisões`
