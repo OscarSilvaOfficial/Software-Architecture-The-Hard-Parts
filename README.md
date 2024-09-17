@@ -77,3 +77,10 @@ Inclua qualquer informação adicional, como diagramas, referências a documento
 ```
 
 `NOTA: Acredito que RFCs também podem auxiliar no processo de tamada das decisões`
+
+### Fitness Functions de Arquiteturas
+A definição de Fitness Functions é de que qualquer mecanismo usado para garantir a integridade de alguma característica de arquitetura.
+
+É possível realizar testes de estrutura da arquitetura, esse teste é a nível de abstração do código. E também testes de arquitetura a nível operacional, onde já envolve quesitos como desempenho e escalabilidade.
+
+Esses testes devem ser objetivos e mensuráveis, para que seja possível realizar automações para manter certos padrões de qualidade.
