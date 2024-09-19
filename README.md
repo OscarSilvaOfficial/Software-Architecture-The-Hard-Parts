@@ -84,3 +84,8 @@ A definição de Fitness Functions é de que qualquer mecanismo usado para garan
 É possível realizar testes de estrutura da arquitetura, esse teste é a nível de abstração do código. E também testes de arquitetura a nível operacional, onde já envolve quesitos como desempenho e escalabilidade.
 
 Esses testes devem ser objetivos e mensuráveis, para que seja possível realizar automações para manter certos padrões de qualidade.
+
+## Separando as coisas
+O capítulo é introduzido com dois conceitos, **acoplamento estático**, e **acoplamento dinâmico**
+- **Estático:** envolve dependências entre, classes, componentes e serviços são conectados.
+- **Dinâmico:** envolve como os serviços se comunicam, quais informações são enviadas, o quão rígido é esse contrato de comunicação.
