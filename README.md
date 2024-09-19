@@ -89,3 +89,6 @@ Esses testes devem ser objetivos e mensuráveis, para que seja possível realiza
 O capítulo é introduzido com dois conceitos, **acoplamento estático**, e **acoplamento dinâmico**
 - **Estático:** envolve dependências entre, classes, componentes e serviços são conectados.
 - **Dinâmico:** envolve como os serviços se comunicam, quais informações são enviadas, o quão rígido é esse contrato de comunicação.
+
+### Discernindo o acoplamento na Arquitetura de Software
+Em arquitetura de software em geral, normalmente é dado que **acoplamento** é algo pejorativo, porém o autor diz que isso não é necessáriamente ruim, depende do nível de acoplamento. Sistemas extremamente desacoplados trazem outros tipos de problemas em transacionalidade, orquestração e assincrônicidade.
