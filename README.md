@@ -98,7 +98,7 @@ A definição formal de Quantum em arquiteturade software é: Um artefato indepe
 
 Em arquiteturas monolíticas, o monolito seria **um quantum de arquitetura**, em casos de microsserviços, cada microsserviço seria **um quantum de arquitetura**.
 
-#### Definindo alguns conceitos pensando em microsserviços
+#### Definindo alguns conceitos
 - *Alta coesão funcional*: Tem uma fucionalidade bem definida
-- *Forte acoplamento estático*: Contratos bem definidos entre dependências (geralmente definida por interfaces).
-- *Comunicação dinâmica síncrona*: Significa que a comunicação entre os microsserviços são diretas, com respostas em tempo real. (Nisso se enquadra por exemplo, chamadas Http REST e Websocket).
+- *Forte acoplamento estático*: O código depende de implementações, e não de contratos (o contrário, onde o código tem mais dependências de contratos e não de implementações, é considerado de baixo acoplamento estático)
+- *Comunicação dinâmica síncrona*: Significa que a comunicação é direta, com respostas em tempo real. (Nisso se enquadra por exemplo, chamadas Http REST e Websocket).
