@@ -118,4 +118,6 @@ Exemplificando:
 - Se você tem vários backends, cada um com bases de dados diferentes, mas a interface de usuário(FRONTEND) é única, NÃO É MICROSSERVIÇO.
 ```
 
-
+#### Ferramentas
+- **diagramas de acoplamento estático**
+- **diagramas de acoplamento dinâmico** 
