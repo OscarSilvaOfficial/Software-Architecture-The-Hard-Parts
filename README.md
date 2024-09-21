@@ -119,5 +119,5 @@ Exemplificando:
 ```
 
 #### Ferramentas
-- **diagramas de acoplamento estático**
-- **diagramas de acoplamento dinâmico** 
+- diagramas de acoplamento estático
+- diagramas de acoplamento dinâmico 
