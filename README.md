@@ -109,7 +109,7 @@ NOTA:
 No livro é dado vários outros exemplos com outros detalhes.
 
 Um ponto importante é que o autor por várias vezes cita que, sistemas com alta coesão funcional
-e com baixo acoplamento, normalmente é feito em microsserviços.
+e com baixo acoplamento estático, normalmente é feito em microsserviços.
 
 E para que os sistemas isolados sejam caracterizados como tal, não pode existir pontos de acoplamento em conjunto.
 
