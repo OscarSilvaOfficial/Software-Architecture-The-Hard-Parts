@@ -102,3 +102,5 @@ Em arquiteturas monolíticas, o monolito seria **um quantum de arquitetura**, em
 - *Alta coesão funcional*: Tem uma fucionalidade bem definida
 - *Forte acoplamento estático*: Significa que outros componentes do sistemas possuem uma depedência alta entre si, por exemplo, vários serviços dependendo de apenas um banco
 - *Comunicação dinâmica síncrona*: Significa que a comunicação é direta, com respostas em tempo real. (Nisso se enquadra por exemplo, chamadas Http REST e Websocket).
+
+`NOTA: No livro é dado vários outros exemplos, com outros detalhes`
