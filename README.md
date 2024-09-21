@@ -34,7 +34,7 @@ O autor cita que uma das maiores dificuldades na implementação de microsservi�
 **Dados analiticos:** São dados usados para realizar previsões, análises de inteligência do negócio e etc.
 
 ### Regístros de decisão de arquitetura
-Em arquitetura, é extremamente importante documentar as decisões tomadas, seus motivos, e suas consequências. Para realizar isso o autor indica o uso de ADRs (Architectural Decision Records).
+Em arquitetura, é extremamente importante documentar as decisões tomadas, seus motivos, e suas consequências. Para realizar isso o autor indica o uso de **ADRs (Architectural Decision Records)**.
 
 Esse tipo de documentação deve ser bem direto e normalmente escrito em markdown
 
