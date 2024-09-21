@@ -94,7 +94,7 @@ O capítulo é introduzido com dois conceitos, **acoplamento estático**, e **ac
 Em arquitetura de software em geral, normalmente é dado que **acoplamento** é algo pejorativo, porém o autor diz que isso não é necessáriamente ruim, depende do nível de acoplamento. Sistemas extremamente desacoplados trazem outros tipos de problemas em transacionalidade, orquestração e assincrônicidade.
 
 ### Arquitetura Quantum
-A definição formal de Quantum em arquiteturade software é: Um artefato independente implementavel, com alta coesão funcional, alto acoplamento estático, e acoplamento dinâmico sincrono.
+Um exemplo de definição formal de Quantum em arquitetura de software: Um artefato independente implementavel, com alta coesão funcional, alto acoplamento estático, e acoplamento dinâmico sincrono.
 
 Em arquiteturas monolíticas, o monolito seria **um quantum de arquitetura**, em casos de microsserviços, cada microsserviço seria **um quantum de arquitetura**.
 
