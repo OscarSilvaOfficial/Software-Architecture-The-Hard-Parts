@@ -103,4 +103,18 @@ Em arquiteturas monolíticas, o monolito seria **um quantum de arquitetura**, em
 - *Forte acoplamento estático*: Significa que outros componentes do sistemas possuem uma depedência alta entre si, por exemplo, vários serviços dependendo de apenas um banco
 - *Comunicação dinâmica síncrona*: Significa que a comunicação é direta, com respostas em tempo real. (Nisso se enquadra por exemplo, chamadas Http REST e Websocket).
 
-`NOTA: No livro é dado vários outros exemplos, com outros detalhes`
+```
+NOTA:
+
+No livro é dado vários outros exemplos, com outros detalhes.
+
+Um ponto importante, o autor por várias vezes cita que, sistemas com alta coesão funcional e com baixo acoplamento, normalmente é feito em microsserviços.
+
+E para que os sistemas isolados sejam caracterizados como tal, não pode existir pontos de acoplamento em conjunto.
+
+Exemplificando:
+- Se você tem vários backends, e todos grudados no mesmo banco, NÃO É MICROSSERVIÇO.
+- Se você tem vários backends, cada um com bases de dados diferentes, mas a interface de usuário(FRONTEND) é única, NÃO É MICROSSERVIÇO.
+```
+
+
