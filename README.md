@@ -100,5 +100,5 @@ Em arquiteturas monolíticas, o monolito seria **um quantum de arquitetura**, em
 
 #### Definindo alguns conceitos
 - *Alta coesão funcional*: Tem uma fucionalidade bem definida
-- *Forte acoplamento estático*: O código depende de implementações, e não de contratos (o contrário, onde o código tem mais dependências de contratos e não de implementações, é considerado de baixo acoplamento estático)
+- *Forte acoplamento estático*: Significa que outros componentes do sistemas possuem uma depedência alta entre si, por exemplo, vários serviços dependendo de apenas um banco
 - *Comunicação dinâmica síncrona*: Significa que a comunicação é direta, com respostas em tempo real. (Nisso se enquadra por exemplo, chamadas Http REST e Websocket).
