@@ -106,9 +106,10 @@ Em arquiteturas monolíticas, o monolito seria **um quantum de arquitetura**, em
 ```
 NOTA:
 
-No livro é dado vários outros exemplos, com outros detalhes.
+No livro é dado vários outros exemplos com outros detalhes.
 
-Um ponto importante, o autor por várias vezes cita que, sistemas com alta coesão funcional e com baixo acoplamento, normalmente é feito em microsserviços.
+Um ponto importante é que o autor por várias vezes cita que, sistemas com alta coesão funcional
+e com baixo acoplamento, normalmente é feito em microsserviços.
 
 E para que os sistemas isolados sejam caracterizados como tal, não pode existir pontos de acoplamento em conjunto.
 
